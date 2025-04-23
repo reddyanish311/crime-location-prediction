@@ -51,7 +51,9 @@ Open [`crime_predictions_map.html`](crime_predictions_map.html) to explore!
 ## 🙋‍♂️ Author
 
 Anish Reddy Yellakonda 
-[LinkedIn](https://www.linkedin.com/anishreddy09) • [GitHub](https://github.com/reddyanish311)
+[LinkedIn](www.linkedin.com/in/
+anishreddy09
+) • [GitHub](https://github.com/reddyanish311)
 
 ---
 
